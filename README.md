@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Visitor Count](https://count.getloli.com/@meronpan-coder?theme=moebooru&darkmode=0)
+
+I like melon bun.
+
 <!--
 **meronpan-coder/meronpan-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
